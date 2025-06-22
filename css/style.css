@@ -1127,6 +1127,14 @@ nav ul>li>span
     {
         height: calc(100vh - 84px);
     }
+     .home h1
+    {
+        font-size: 3rem;
+    }
+    .home p
+    {
+        font-size: 1.5rem;
+    }
     .categories
     {
         width: 95%;
