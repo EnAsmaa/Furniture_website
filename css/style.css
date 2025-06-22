@@ -114,7 +114,7 @@ nav .container
 }
 .nav-logo 
 {
-    width: 55%;
+    width: 60%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -367,7 +367,7 @@ nav ul>li>span
 }
 .content
 {
-    width: 90%;
+    width: 95%;
 }
 .home h2
 {
@@ -964,7 +964,7 @@ nav ul>li>span
 }
 .footer_logo 
 {
-    width: 70%;
+    width: 75%;
     display: flex;
     justify-content: space-around;
     color: var(--white_color);
